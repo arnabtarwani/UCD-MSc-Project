@@ -27,7 +27,7 @@ Contains files which are important for acquiring the data and pushing it to the 
 
 This application is responsible for the overall functionality of the dashboard and contains all the static pages required to develop the UI of the application. 
 
-### The main files in the application are: 
+### The main files in the two applications are: 
 
 - Views.py: This is one of the most important files in the application as this contains callable classes which takes requests and then returns them as a response to the task.py file. 
 - Task.py: Contains all the callable functions responsible for performing tasks in the application
