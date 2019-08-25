@@ -25,7 +25,7 @@ Contains files which are important for acquiring the data and pushing it to the 
 
 ### Login 
 
-This application is responsible for the overall functionality of the dashboard of and contains all the static pages required to develop the UI of the application. 
+This application is responsible for the overall functionality of the dashboard and contains all the static pages required to develop the UI of the application. 
 
 ### The main files in the application are: 
 
