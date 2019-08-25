@@ -1,6 +1,6 @@
 # BuddyUP 
 
-An application which provides a platform that helps in passive well-being assessment of user’s loved ones. It tries to accomplish this task by constant monitoring oftweets and reporting a critical/notifiable tweet to the user.  This early reporting of critical tweets willhelp the end user to intervene and provide emotional support to his friend/family at the right time. 
+An application which provides a platform that helps in passive well-being assessment of user’s loved ones. It tries to accomplish this task by constant monitoring of tweets and reporting a critical/notifiable tweet to the user.  This early reporting of critical tweets will help the end user to intervene and provide emotional support to his friend/family at the right time. 
 
 
 ## Technology Stack
