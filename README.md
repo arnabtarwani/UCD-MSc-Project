@@ -73,3 +73,5 @@ python manage.py runserver
 - **Arpan Tiwari** - [arpantiwari](https://github.com/arpantiwari)
 - **Arunuday Ganju** - [arunduayganju](https://github.com/ArunudayGanju)
 - **Achin Tamiri** - [achintamiri](https://github.com/achintamiri)
+
+While writing code, we followed the pair programming model in which one person would be the driver (code writer) and another person would be the navigator (code reviewer). The GitHub code commits and maintenance was performed by two members who were already familiar with the platform.
