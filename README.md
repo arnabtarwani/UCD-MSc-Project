@@ -47,7 +47,6 @@ This application is responsible for the overall functionality of the dashboard a
 ## Installing 
 
 You need to install the required packages to begin with by using the code below:
-
 ```
 pip install -r requirements.txt
 ```
@@ -63,7 +62,7 @@ python manage.py migrate
 ```
 Once the migrations are migrated, you can start the application by the following code:
 ```
-python manage.py runserver
+python manage.py runserver --insecure
 ```
 
 ## Authors 
