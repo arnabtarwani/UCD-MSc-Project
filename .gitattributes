@@ -1,2 +1,2 @@
 # Basic .gitattributes for a python repo.
- *.* linguist-language=Python
+ *.* linguist-language=Django
